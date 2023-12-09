@@ -9,8 +9,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ### Grouping by Priority
 ![Screenshot 1](./Images/S1.png)
@@ -24,7 +23,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 ## Mobile Display view
 
